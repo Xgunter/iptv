@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Lubliniec
-https://kl6.tech5.pl:8073/hls/live.stream.m3u8
+
 #EXTINF:-1,Wysokie Koło
 https://kl6.tech5.pl:8013/hls/live.stream.m3u8
 #EXTINF:-1,Zagnańsk
@@ -16,6 +15,8 @@ https://kl6.tech5.pl:8044/hls/live.stream.m3u8
 https://kl6.tech5.pl:8048/hls/live.stream.m3u8
 #EXTINF:-1,Bytom
 https://kl6.tech5.pl:8061/hls/live.stream.m3u8
+#EXTINF:-1,Lubliniec
+https://kl6.tech5.pl:8073/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="EzoTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hJAoLIq.png" group-title="Undefined",Ezo TV (576p) [Not 24/7]
 http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="Undefined",TVP 3 Katowice (404p)
