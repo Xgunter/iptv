@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
 #EXTINF:-1,Radom
 https://kl6.tech5.pl:8047/hls/live.stream.m3u8
 #EXTINF:-1,Pionki 2
