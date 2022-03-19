@@ -4,7 +4,6 @@
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Pionki 2
 https://kl6.tech5.pl:8066/hls/live.stream.m3u8
-#EXTINF:-1,tv
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1,ONE
-https://iptv-org.github.io/iptv/index.m3u
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-country="PL" tvg-language="English;Polish" tvg-logo="https://i.imgur.com/6PgzaVW.png" group-title="Lifestyle",BBC Lifestyle (576p) [Geo-blocked]
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
