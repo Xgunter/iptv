@@ -8,3 +8,5 @@ https://kl6.tech5.pl:8066/hls/live.stream.m3u8
 http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="Undefined",TVP 3 Katowice (404p)
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1,Lubliniec
+https://kl6.tech5.pl:8073/hls/live.stream.m3u8
