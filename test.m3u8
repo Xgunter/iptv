@@ -4,6 +4,6 @@
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Pionki 2
 https://kl6.tech5.pl:8066/hls/live.stream.m3u8
-#EXTINF:-1 tvg-id="5TV.am" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5-tv (480p)
+#EXTINF:-1,5-tv (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s6/index.m3u8
