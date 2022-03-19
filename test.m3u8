@@ -12,3 +12,124 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
 https://kl6.tech5.pl:8073/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="Echo24.tv" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/a5DX4nh.jpg" group-title="Undefined",Echo24 (720p) [Not 24/7]
 https://live-insysgo.cf.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTM3U size="medium"
+#EXTINF:0 tvg-logo="https://msze.live/wp-content/uploads/2020/05/przemienienie-sanok.jpg" type="video" description="Sanok", Parafia Sanok Fara
+https://oldlive.tech5.pl:8003/hls/live.stream.m3u8
+#EXTINF:0 tvg-logo="https://www.bernardyni.rzeszow.pl/files/DSC_0020.JPG" type="video" description="Bernardyni Rzeszów", Sanktuarium Matki Bożej Rzeszowskiej
+https://kl6.tech5.pl:8004/hls/live.stream.m3u8
+#EXTINF:0 tvg-logo="https://www.bernardyni.rzeszow.pl/files/DSC_0020.JPG" type="video" description="Bernardyni Rzeszów", Sanktuarium Matki Bożej Rzeszowskiej
+https://kl6.tech5.pl:8005/hls/live.stream.m3u8
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8006/hls/live.stream.m3u8
+#EXTINF:-1,Sanok NSPJ POSADA
+https://kl6.tech5.pl:8010/hls/live.stream.m3u8
+#EXTINF:-1,Wysokie Koło
+https://kl6.tech5.pl:8013/hls/live.stream.m3u8
+#EXTINF:-1,Zagnańsk
+https://kl6.tech5.pl:8019/hls/live.stream.m3u8
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8020/hls/live.stream.m3u8
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8021/hls/live.stream.m3u8
+#EXTINF:-1,Lubatowa
+https://kl6.tech5.pl:8024/hls/live.stream.m3u8
+#EXTINF:-1,Markuszów
+https://kl6.tech5.pl:8025/hls/live.stream.m3u8
+#EXTINF:-1,Essen
+https://kl6.tech5.pl:8026/hls/live.stream.m3u8
+#EXTINF:-1,Sieniawa
+https://kl6.tech5.pl:8027/hls/live.stream.m3u8
+#EXTINF:-1,Parafia Św. Wawrzyńca
+https://kl6.tech5.pl:8028/hls/live.stream.m3u8
+#EXTINF:-1,Wiśniowa
+https://kl6.tech5.pl:8029/hls/live.stream.m3u8
+#EXTINF:-1,Włocławek
+https://kl6.tech5.pl:8030/hls/live.stream.m3u8
+#EXTINF:-1,Sadów
+https://kl6.tech5.pl:8032/hls/live.stream.m3u8
+#EXTINF:-1,Rawa Mazowiecka
+https://kl6.tech5.pl:8033/hls/live.stream.m3u8
+#EXTINF:-1,Orneta
+https://kl6.tech5.pl:8034/hls/live.stream.m3u8
+#EXTINF:-1,Skroniów
+https://kl6.tech5.pl:8035/hls/live.stream.m3u8
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8036/hls/live.stream.m3u8
+#EXTINF:-1,Otwock
+https://kl6.tech5.pl:8037/hls/live.stream.m3u8
+#EXTINF:-1,Parafia NMPKP Pionki
+https://kl6.tech5.pl:8040/hls/live.stream.m3u8
+#EXTINF:-1,Rusinowice
+https://kl6.tech5.pl:8043/hls/live.stream.m3u8
+#EXTINF:-1,Jurków
+https://kl6.tech5.pl:8044/hls/live.stream.m3u8
+#EXTINF:-1,Kościół
+https://kl6.tech5.pl:8045/hls/live.stream.m3u8
+#EXTINF:-1,Parafia Najświętszego Serca Jezusowego w Radomiu
+https://kl6.tech5.pl:8047/hls/live.stream.m3u8
+#EXTINF:-1,Kisielice
+https://kl6.tech5.pl:8048/hls/live.stream.m3u8
+#EXTINF:-1,Skaryszew
+https://kl6.tech5.pl:8049/hls/live.stream.m3u8
+#EXTINF:-1,Krzykawa-Małobądz
+https://kl6.tech5.pl:8050/hls/live.stream.m3u8
+#EXTINF:-1,Olszyna
+https://kl6.tech5.pl:8051/hls/live.stream.m3u8
+#EXTINF:-1,CZASZYN
+https://kl6.tech5.pl:8052/hls/live.stream.m3u8
+#EXTINF:-1,Wierbka
+https://kl6.tech5.pl:8053/hls/live.stream.m3u8
+#EXTINF:-1,Zawada
+https://kl6.tech5.pl:8054/hls/live.stream.m3u8
+#EXTINF:-1,Sokołów Podlaski
+https://kl6.tech5.pl:8056/hls/live.stream.m3u8
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8057/hls/live.stream.m3u8
+#EXTINF:-1,Rudka
+https://kl6.tech5.pl:8058/hls/live.stream.m3u8
+#EXTINF:-1,Pawłowice
+https://kl6.tech5.pl:8059/hls/live.stream.m3u8
+#EXTINF:-1,Zagórz
+https://kl6.tech5.pl:8060/hls/live.stream.m3u8
+#EXTINF:-1,Bytom
+https://kl6.tech5.pl:8061/hls/live.stream.m3u8
+#EXTINF:-1,BELGIA
+https://kl6.tech5.pl:8062/hls/live.stream.m3u8
+#EXTINF:-1,Litwa
+https://kl6.tech5.pl:8063/hls/live.stream.m3u8
+#EXTINF:-1,Warszawa
+https://kl6.tech5.pl:8064/hls/live.stream.m3u8
+#EXTINF:-1,Warszawa
+https://kl6.tech5.pl:8065/hls/live.stream.m3u8
+#EXTINF:-1,Pionki 2
+https://kl6.tech5.pl:8066/hls/live.stream.m3u8
+#EXTINF:-1,Strzebielino
+https://kl6.tech5.pl:8067/hls/live.stream.m3u8
+#EXTINF:-1,Pniów
+https://kl6.tech5.pl:8068/hls/live.stream.m3u8
+#EXTINF:-1,Pyskowice
+https://kl6.tech5.pl:8069/hls/live.stream.m3u8
+#EXTINF:-1,Czempin
+https://kl6.tech5.pl:8070/hls/live.stream.m3u8
+#EXTINF:-1,Chocianowice
+https://kl6.tech5.pl:8072/hls/live.stream.m3u8
+#EXTINF:-1,Lubliniec
+https://kl6.tech5.pl:8073/hls/live.stream.m3u8
+#EXTINF:-1,Sierakow
+https://kl6.tech5.pl:8074/hls/live.stream.m3u8
+#EXTINF:-1,Długołęka Byków
+https://kl6.tech5.pl:8075/hls/live.stream.m3u8
+#EXTINF:-1,Rozniszew
+https://kl6.tech5.pl:8076/hls/live.stream.m3u8
+#EXTINF:-1,Wręczyca Wielka
+https://kl6.tech5.pl:8077/hls/live.stream.m3u8
+#EXTINF:-1,Biskupice
+https://kl6.tech5.pl:8078/hls/live.stream.m3u8
+#EXTINF:-1,Mikołów
+https://kl6.tech5.pl:8079/hls/live.stream.m3u8
+#EXTINF:-1,Celestynów
+https://kl6.tech5.pl:8080/hls/live.stream.m3u8
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8009/hls/live.stream.m3u8
+#EXTINF:-1,TV Sanok
+https://kl6.tech5.pl:8125/hls/live.stream.m3u8
