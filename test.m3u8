@@ -4,5 +4,7 @@
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Pionki 2
 https://kl6.tech5.pl:8066/hls/live.stream.m3u8
-#EXTINF:-1,5-tv
+#EXTINF:-1,tv
 http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1,ONE
+https://iptv-org.github.io/iptv/index.m3u
