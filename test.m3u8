@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXT-X-STREAM-INF:RESOLUTION=1280x720"
+#EXTINF:-1,Radom:EXT-X-STREAM-INF:RESOLUTION=1280x720"
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Pionki 2
 https://kl6.tech5.pl:8066/hls/live.stream.m3u8
