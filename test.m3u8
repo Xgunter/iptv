@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Pierogi
 https://www.youtube.com/watch?v=hgJ9DrxOcuI
+#EXTINF:-1,Radom
+https://kl6.tech5.pl:8036/hls/live.stream.m3u8
