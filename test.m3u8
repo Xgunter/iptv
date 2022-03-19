@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U size="medium"
 #EXTINF:-1,Wysokie Koło
 https://kl6.tech5.pl:8013/hls/live.stream.m3u8
 #EXTINF:-1,Zagnańsk
