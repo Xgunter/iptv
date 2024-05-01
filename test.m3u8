@@ -1,0 +1,25 @@
+#EXTM3U size="medium"
+#EXTINF:-1,Radom pw. Matki Bożej
+https://kl6.tech5.pl:8036/hls/live.stream.m3u8
+#EXTINF:-1,Radom św. Jadwigi Królowej
+https://kl6.tech5.pl:8018/hls/live.stream.m3u8
+#EXTINF:-1,Radom bł. Annuarity
+https://kl6.tech5.pl:8021/hls/live.stream.m3u8
+#EXTINF:-1,Radom Najświętszego Serca Jezusa
+https://kl6.tech5.pl:8047/hls/live.stream.m3u8								
+#EXTINF:-1,Zagnańsk
+https://kl6.tech5.pl:8019/hls/live.stream.m3u8
+#EXTINF:-1,Markuszów
+https://kl6.tech5.pl:8025/hls/live.stream.m3u8
+#EXTINF:-1,Sadów
+https://kl6.tech5.pl:8032/hls/live.stream.m3u8
+#EXTINF:-1,Jurków
+https://kl6.tech5.pl:8044/hls/live.stream.m3u8
+#EXTINF:-1,Kisielice - Parafia
+https://kl6.tech5.pl:8048/hls/live.stream.m3u8
+#EXTINF:-1,Bytom
+https://kl6.tech5.pl:8061/hls/live.stream.m3u8
+#EXTINF:-1,Lubliniec
+https://kl6.tech5.pl:8073/hls/live.stream.m3u8
+#EXTINF:-1,Wysokie Koło
+https://kl6.tech5.pl:8013/hls/live.stream.m3u8
