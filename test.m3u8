@@ -11,6 +11,8 @@ https://kl6.tech5.pl:8047/hls/live.stream.m3u8
 https://kl6.tech5.pl:8020/hls/live.stream.m3u8
 #EXTINF:-1,Warszawa Św. Mateusza
 https://vpnkl6.tech5.pl:8100/hls/live.stream.m3u8
+#EXTINF:-1,Krakowskie-Łagiewniki
+https://tv.fastcast4u.com:3976/live/adminlive.m3u8
 #EXTINF:-1,Zagnańsk
 https://kl6.tech5.pl:8019/hls/live.stream.m3u8
 #EXTINF:-1,Markuszów
