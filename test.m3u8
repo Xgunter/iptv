@@ -3,6 +3,12 @@
 https://stream6.nadaje.com:34766/live/Xkd808.stream/chunklist_w1660133621.m3u8
 #EXTINF:-1,Radom Trau
 https://185.34.48.75/kam/video/stream.m3u8
+#EXTINF:-1,Mielno
+https://hoktastream4.webcamera.pl/mielno_cam_0e2e7c/mielno_cam_0e2e7c.stream/playlist.m3u8
+#EXTINF:-1,Kołobrzeg
+https://hoktastream4.webcamera.pl/kolobrzeg_cam_6df535/kolobrzeg_cam_6df535.stream/playlist.m3u8
+#EXTINF:-1, Warszawa Zamkowy
+https://hoktastream2.webcamera.pl/warszawa_cam_5f3b1a/warszawa_cam_5f3b1a.stream/playlist.m3u8
 #EXTINF:-1,Radom pw. Matki Bożej
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Radom św. Jadwigi Królowej
