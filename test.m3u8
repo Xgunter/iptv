@@ -9,6 +9,10 @@ https://hoktastream4.webcamera.pl/mielno_cam_0e2e7c/mielno_cam_0e2e7c.stream/pla
 https://hoktastream4.webcamera.pl/kolobrzeg_cam_6df535/kolobrzeg_cam_6df535.stream/playlist.m3u8
 #EXTINF:-1, Warszawa Zamkowy
 https://hoktastream2.webcamera.pl/warszawa_cam_5f3b1a/warszawa_cam_5f3b1a.stream/playlist.m3u8
+#EXTINF:-1,Warszawa Pałac K
+https://hoktastream2.webcamera.pl/warszawa_cam_d0fc4d/warszawa_cam_d0fc4d.stream/playlist.m3u8
+#EXTINF:-1,Ustka
+https://hoktastream1.webcamera.pl/ustka_cam_4b0fca/ustka_cam_4b0fca.stream/playlist.m3u8
 #EXTINF:-1,Radom pw. Matki Bożej
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Radom św. Jadwigi Królowej
