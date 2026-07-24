@@ -45,6 +45,12 @@ https://ls.tkchopin.pl/live/sopot_molo_skwer_kuracyjny_obrotowa.stream/playlist.
 https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d_reklamy.stream/playlist.m3u8
 #EXTINF:-1, Krynica Zdrój
 https://hoktastream1.webcamera.pl/krynicazdroj_cam_6127fe/krynicazdroj_cam_6127fe.stream/playlist.m3u8
+#EXTINF:-1, Szczecin 
+https://hoktastream3.webcamera.pl/szczecin_cam_141876/szczecin_cam_141876.stream/playlist.m3u8
+#EXTINF:-1, Jezioro Solińskie
+https://hoktastream1.webcamera.pl/polanczyk_cam_aa8511/polanczyk_cam_aa8511.stream/playlist.m3u8
+#EXTINF:-1, Madryt
+https://hd-auth.skylinewebcams.com/live.m3u8?a=t8d9jg5j00o6o5pje8m4qdpv44
 #EXTINF:-1,Radom pw. Matki Bożej
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Radom św. Jadwigi Królowej
