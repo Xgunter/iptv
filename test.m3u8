@@ -13,6 +13,34 @@ https://hoktastream2.webcamera.pl/warszawa_cam_5f3b1a/warszawa_cam_5f3b1a.stream
 https://hoktastream2.webcamera.pl/warszawa_cam_d0fc4d/warszawa_cam_d0fc4d.stream/playlist.m3u8
 #EXTINF:-1,Ustka
 https://hoktastream1.webcamera.pl/ustka_cam_4b0fca/ustka_cam_4b0fca.stream/playlist.m3u8
+#EXTINF:-1, Gdynia Port
+https://hoktastream1.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
+#EXTINF:-1, Gdańsk Stare
+https://hoktastream4.webcamera.pl/umgdansk_cam_2e4f1b/umgdansk_cam_2e4f1b.stream/playlist.m3u8
+#EXTINF:-1, Gdańsk Molo
+https://hoktastream5.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/playlist.m3u8
+#EXTINF:-1, Gdańsk Marina
+https://hoktastream2.webcamera.pl/gdansk_cam_9e790c/gdansk_cam_9e790c.stream/playlist.m3u8
+#EXTINF:-1, Jezioro Wigry
+https://1340016098.rsc.cdn77.org/live/BtE1182.stream/playlist.m3u8
+#EXTINF:-1, Wrocław Rynek
+https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#EXTINF:-1, Kraków Rynek
+https://hoktastream2.webcamera.pl/krakow_cam_702b61/krakow_cam_702b61.stream/playlist.m3u8
+#EXTINF:-1, Lublin
+https://hoktastream2.webcamera.pl/lublin_cam_442bc7/lublin_cam_442bc7.stream/playlist.m3u8
+#EXTINF:-1, Białystok
+https://hoktastream3.webcamera.pl/bialystok_cam_4fc01a/bialystok_cam_4fc01a.stream/playlist.m3u8
+#EXTINF:-1, Poznań
+https://hoktastream2.webcamera.pl/poznan_cam_a2ec1b/poznan_cam_a2ec1b.stream/playlist.m3u8
+#EXTINF:-1, Toruń
+https://hoktastream3.webcamera.pl/torun_cam_41fa74/torun_cam_41fa74.stream/playlist.m3u8
+#EXTINF:-1, Kołobrzeg
+https://hoktastream5.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1, Sopot
+https://hoktastream1.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/playlist.m3u8
+#EXTINF:-1, Sopot Molo
+https://ls.tkchopin.pl/live/sopot_molo_skwer_kuracyjny_obrotowa.stream/playlist.m3u8
 #EXTINF:-1,Radom pw. Matki Bożej
 https://kl6.tech5.pl:8036/hls/live.stream.m3u8
 #EXTINF:-1,Radom św. Jadwigi Królowej
