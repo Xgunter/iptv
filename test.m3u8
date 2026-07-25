@@ -25,6 +25,8 @@ https://hoktastream5.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/pla
 https://hoktastream2.webcamera.pl/gdansk_cam_9e790c/gdansk_cam_9e790c.stream/playlist.m3u8
 #EXTINF:-1, Jezioro Wigry
 https://1340016098.rsc.cdn77.org/live/BtE1182.stream/playlist.m3u8
+#EXTINF:-1, Giżycko
+https://hoktastream4.webcamera.pl/gizycko_cam_a96a04/gizycko_cam_a96a04.stream/chunks.m3u8?nimblesessionid=27429869
 #EXTINF:-1, Wrocław Rynek
 https://hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
 #EXTINF:-1, Kraków Rynek
