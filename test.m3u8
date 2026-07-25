@@ -13,6 +13,8 @@ https://hoktastream2.webcamera.pl/warszawa_cam_5f3b1a/warszawa_cam_5f3b1a.stream
 https://hoktastream2.webcamera.pl/warszawa_cam_d0fc4d/warszawa_cam_d0fc4d.stream/playlist.m3u8
 #EXTINF:-1,Ustka
 https://hoktastream1.webcamera.pl/ustka_cam_4b0fca/ustka_cam_4b0fca.stream/playlist.m3u8
+#EXTINF:-1, Władysławowo
+https://hoktastream5.webcamera.pl/wladyslawowo_cam_01fb5d/wladyslawowo_cam_01fb5d.stream/playlist.m3u8
 #EXTINF:-1, Gdynia Port
 https://hoktastream1.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
 #EXTINF:-1, Gdańsk Stare
