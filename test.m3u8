@@ -43,6 +43,14 @@ https://hoktastream1.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/playl
 https://ls.tkchopin.pl/live/sopot_molo_skwer_kuracyjny_obrotowa.stream/playlist.m3u8
 #EXTINF:-1, Zakopane
 https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d_reklamy.stream/playlist.m3u8
+#EXTINF:-1, Zakopane na Gubałówka
+https://hoktastream2.webcamera.pl/zakopanet_cam_4e4a21/zakopanet_cam_4e4a21.stream/playlist.m3u8
+#EXTINF:-1, Gdańsk most
+https://hoktastream2.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
+#EXTINF:-1, Zalew Soliński
+https://cdn2.bieszczady.live/hls-live/portSolina/playlist.m3u8
+#EXTINF:-1, Krakóe Hotel
+https://hoktastream1.webcamera.pl/wentzl_cam_be5c6c/wentzl_cam_be5c6c.stream/playlist.m3u8
 #EXTINF:-1, Krynica Zdrój
 https://hoktastream1.webcamera.pl/krynicazdroj_cam_6127fe/krynicazdroj_cam_6127fe.stream/playlist.m3u8
 #EXTINF:-1, Szczecin 
